@@ -12,3 +12,4 @@ UnJail - утилита для разблокировки IOS устройств
 | IOS 16.0.2     | 12.06.2023  |   ✔️ |
 | IOS 15.0.7      | 01.05.2023           |❌|
 | IOS 8 | Устарел            |         ❌|
+![Frame 1](https://github.com/GULIAMOVPRO/UnJail/assets/39131120/9d27c7d7-5fe5-49f6-947d-42bd7d33edc3)
